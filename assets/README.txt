@@ -1,0 +1,1 @@
+Tambahkan foto profil, CV PDF, sertifikat, dan gambar proyek di folder ini.
